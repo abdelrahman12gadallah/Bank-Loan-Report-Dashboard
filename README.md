@@ -35,6 +35,17 @@ The dashboard includes the following key sections:
 - `loan_data.csv` → Raw dataset (if available)
 
 ---
+## 📸 Dashboard Screenshots
+
+### Overview
+![Overview Dashboard]()
+
+### Loan Purpose Analysis
+![Loan Purpose](loan_purpose_chart.png)
+
+
+
+---
 
 ## 🚀 How to Use
 1. Open the Excel file.  
