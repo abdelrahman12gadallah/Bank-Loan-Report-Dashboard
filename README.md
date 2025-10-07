@@ -23,7 +23,6 @@ The dashboard includes the following key sections:
 
 ## 🧰 Tools & Techniques Used
 - **Microsoft Excel** (Dashboard & Charts)
-- **Power Query** (Data Cleaning & Transformation)
 - **Pivot Tables** (Data Summarization)
 - **Slicers & Filters** (Interactivity)
 
