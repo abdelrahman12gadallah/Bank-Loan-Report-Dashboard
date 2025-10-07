@@ -35,13 +35,18 @@ The dashboard includes the following key sections:
 - `loan_data.csv` → Raw dataset (if available)
 
 ---
+---
+
 ## 📸 Dashboard Screenshots
 
-### Overview
-![Dashboard Overview](Overview Dashboard.png)
+### 🔹 Summary Dashboard
+![Summary Dashboard](Summary%20Dashboard.png)
 
-### Loan Purpose Analysis
-![Loan Purpose](loan_purpose_chart.png)
+### 🔹 Overview Dashboard
+![Overview Dashboard](Overview%20Dashboard.png)
+
+---
+
 
 
 
