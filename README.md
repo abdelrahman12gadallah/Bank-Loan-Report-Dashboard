@@ -38,7 +38,7 @@ The dashboard includes the following key sections:
 ## 📸 Dashboard Screenshots
 
 ### Overview
-![Overview Dashboard]()
+![Dashboard Overview](Overview Dashboard.png)
 
 ### Loan Purpose Analysis
 ![Loan Purpose](loan_purpose_chart.png)
